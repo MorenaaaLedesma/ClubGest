@@ -18,13 +18,6 @@ Desarrollar una app móvil que permita llevar el control de los socios de un clu
 - Adjuntar fotografía y escaneo del DNI.
 - Consultar, editar o eliminar registros de manera eficiente.
 - Usar una base de datos en la nube para almacenar la información.
-
----
-
-## Integrantes del equipo
-- Ledesma Morena
-- Dominguez Jaun Pablo
-
 ---
 ## Funcionalidades principales
 
@@ -38,14 +31,14 @@ Desarrollar una app móvil que permita llevar el control de los socios de un clu
 ---
 
 ## Estado del proyecto
-*En desarrollo*  
+ *En desarrollo*  
 Actualmente se está trabajando en el diseño de pantallas, la estructura de datos y la conexión con la base de datos.
 ---
 
 ## Licencia
 Este proyecto es de uso educativo y sin fines de lucro. Libre para ser adaptado a otros clubes o instituciones comunitarias.
 
-## Autores
+## Integrantes del equipo
 
 - [@juampi.dominguezz_](https://github.com/eljuampoo)
 - [@moreeeledemaaaa_](https://github.com/MorenaaaLedesma)
