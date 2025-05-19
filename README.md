@@ -1,4 +1,4 @@
-**ClubGest – App de Gestión de Socios para Clubes Barriales**
+## **ClubGest – App de Gestión de Socios para Clubes Barriales**
 
 **ClubGest** es una aplicación móvil pensada para clubes barriales, que permite registrar, actualizar y gestionar los datos de los socios de forma simple y organizada. Está orientada a mejorar la administración interna del club y a digitalizar procesos que comúnmente se hacen de forma manual.
 
