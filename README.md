@@ -24,7 +24,7 @@ En desarrollo. Actualmente se está trabajando en:
 - Implementación de funcionalidades básicas de CRUD y login/registro.
 
 ### Documentación
-- [Wiki del proyecto](enlace-a-wiki)  
+- [Wiki del proyecto](https://github.com/MorenaaaLedesma/ClubGest.wiki.git)  
   Incluye: Mockups, DER, casos de prueba y documentación técnica.  
 - [Casos de prueba](enlace-a-planilla)  
   Tabla de testing con mínimo 5 casos de validación de formularios y funcionalidades.
