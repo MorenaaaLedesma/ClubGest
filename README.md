@@ -26,7 +26,7 @@ En desarrollo. Actualmente se está trabajando en:
 ### Documentación
 - [Wiki del proyecto](https://github.com/MorenaaaLedesma/ClubGest.wiki.git)  
   Incluye: Mockups, DER, casos de prueba y documentación técnica.  
-- [Casos de prueba](enlace-a-planilla)  
+- [Casos de prueba](https://docs.google.com/spreadsheets/d/1MXhhw2luLTZDzTLWk3niaIOufGpqOkWc3VSjB9I3bUk/edit?usp=sharing)  
   Tabla de testing con mínimo 5 casos de validación de formularios y funcionalidades.
 
 ### Licencia
@@ -61,9 +61,9 @@ In development. Currently working on:
 - Implementation of basic CRUD functionalities and login/registration.
 
 ### Documentation
-- [Project Wiki](enlace-a-wiki)  
+- [Project Wiki](https://github.com/MorenaaaLedesma/ClubGest.wiki.git)
   Includes: Mockups, DER, test cases, and technical documentation.  
-- [Test Cases](enlace-a-planilla)  
+- [Test Cases](https://docs.google.com/spreadsheets/d/1MXhhw2luLTZDzTLWk3niaIOufGpqOkWc3VSjB9I3bUk/edit?usp=sharing)  
   Table with at least 5 test cases validating forms and functionalities.
 
 ### License
