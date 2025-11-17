@@ -1,4 +1,4 @@
-# ClubGest – Aplicación de gestión de membresía para clubes barriales
+# ClubGest – Aplicación de gestión para clubes barriales
 
 ## Español
 
@@ -10,17 +10,11 @@ Desarrollar una aplicación móvil que permita llevar el control de los socios d
 
 ### Objetivos específicos
 - Registrar nuevos socios con sus datos personales.
-- Clasificar a los socios por categoría (juvenil, adulto, veterano, etc.).
-- Adjuntar fotografía y escaneo del DNI.
-- Consultar, editar o eliminar registros de manera eficiente.
+- Tablas de inscripcones, actividades y socios
 - Usar una base de datos en la nube para almacenar la información.
 
 ### Funcionalidades principales
-- Registro de socios (nombre, DNI, edad, dirección, información de contacto).
-- Clasificación por categoría.
-- Subida de foto del socio y escaneo del DNI.
-- Consulta y búsqueda de socios por nombre o DNI.
-- Edición y eliminación de registros.
+- Registro de socios (nombre, DNI, edad, información de contacto).
 - Almacenamiento seguro en la nube.
 
 ### Estado del proyecto
@@ -53,17 +47,11 @@ Develop a mobile application that allows tracking the members of a neighborhood 
 
 ### Specific Objectives
 - Register new members with their personal data.
-- Classify members by category (youth, adult, veteran, etc.).
-- Attach a photo and a scanned copy of the ID.
-- View, edit, or delete records efficiently.
+- Registration tables, activities and partners
 - Use a cloud database to store information.
 
 ### Main Features
 - Member registration (name, ID, age, address, contact information).
-- Classification by category.
-- Upload member photo and ID scan.
-- Search and consult members by name or ID.
-- Edit and delete records.
 - Secure cloud storage.
 
 ### Project Status
