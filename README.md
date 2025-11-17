@@ -1,54 +1,12 @@
-## **ClubGest – Membership Management App for Neighborhood Clubs**
-**ClubGest+** is a mobile application designed for neighborhood clubs that allows you to register, update, and manage member data in a simple and organized way. It is aimed at improving the club's internal administration and digitizing processes that are often performed manually.
+# ClubGest – Aplicación de gestión de membresía para clubes barriales
 
-## Documentation
-[Documentation](https://docs.google.com/document/d/1y7__Fw0sHGFrTukGFsLzkKx9uj0Ff0fG3SJ0djpJGG8/edit?usp=sharing)
+## Español
 
-### General Objective
-Develop a mobile application that allows you to keep track of a neighborhood club's members, digitizing personal information and improving communication with members.
+### Descripción
+ClubGest+ es una aplicación móvil diseñada para clubes barriales que permite registrar, actualizar y gestionar los datos de los socios de forma sencilla y organizada. Su objetivo es mejorar la administración interna del club y digitalizar los procesos que comúnmente se realizan de manera manual.
 
----
-Specific Objectives
-- Register new members with their personal information.
-- Classify members by category (youth, adult, veteran, etc.).
-- Attach a photo and ID scan.
-- Efficiently view, edit, or delete records.
-- Use a cloud-based database to store information.
-
----
-## Main Features
-- Member registration (name, ID, age, address, contact information).
-- Classification by category.
-- Upload member photo and scan ID.
-- View and search for members by name or ID.
-- Edit and delete records.
-- Secure cloud storage.
-
----
-## Project status
-In development
-Currently working on screen design, data structure, and database connection.
-
-## License
-This project is for educational and non-profit use. It is free to adapt to other clubs or community institutions.
-
-## Team members
-- [@juampi.dominguezz_](https://github.com/eljuampoo)
-- [@moreeeledemaaaa_](https://github.com/MorenaaaLedesma)
-
-
-
-
----
-## **ClubGest – App de Gestión de Socios para Clubes Barriales**
-
-**ClubGest** es una aplicación móvil pensada para clubes barriales, que permite registrar, actualizar y gestionar los datos de los socios de forma simple y organizada. Está orientada a mejorar la administración interna del club y a digitalizar procesos que comúnmente se hacen de forma manual.
-
-## Documentation
-
-[Documentation](https://docs.google.com/document/d/1y7__Fw0sHGFrTukGFsLzkKx9uj0Ff0fG3SJ0djpJGG8/edit?usp=sharing)
 ### Objetivo general
-Desarrollar una app móvil que permita llevar el control de los socios de un club barrial, digitalizando la información personal y mejorando la comunicación con los miembros.
+Desarrollar una aplicación móvil que permita llevar el control de los socios de un club barrial, digitalizando la información personal y mejorando la comunicación con los miembros.
 
 ### Objetivos específicos
 - Registrar nuevos socios con sus datos personales.
@@ -56,27 +14,73 @@ Desarrollar una app móvil que permita llevar el control de los socios de un clu
 - Adjuntar fotografía y escaneo del DNI.
 - Consultar, editar o eliminar registros de manera eficiente.
 - Usar una base de datos en la nube para almacenar la información.
----
-## Funcionalidades principales
 
-- Registro de socios (nombre, DNI, edad, dirección, contacto).
+### Funcionalidades principales
+- Registro de socios (nombre, DNI, edad, dirección, información de contacto).
 - Clasificación por categoría.
 - Subida de foto del socio y escaneo del DNI.
 - Consulta y búsqueda de socios por nombre o DNI.
 - Edición y eliminación de registros.
 - Almacenamiento seguro en la nube.
 
+### Estado del proyecto
+En desarrollo. Actualmente se está trabajando en:
+- Diseño de pantallas.
+- Estructura de datos y conexión con la base de datos.
+- Implementación de funcionalidades básicas de CRUD y login/registro.
+
+### Documentación
+- [Wiki del proyecto](enlace-a-wiki)  
+  Incluye: Mockups, DER, casos de prueba y documentación técnica.  
+- [Casos de prueba](enlace-a-planilla)  
+  Tabla de testing con mínimo 5 casos de validación de formularios y funcionalidades.
+
+### Licencia
+Este proyecto tiene fines educativos y sin ánimo de lucro. Puede adaptarse libremente a otros clubes o instituciones comunitarias.
+
+### Integrantes del equipo
+- [@juampi.dominguezz_](https://github.com/eljuampoo)
+- [@moreeeledemaaaa_](https://github.com/MorenaaaLedesma)
 ---
 
-## Estado del proyecto
- *En desarrollo*  
-Actualmente se está trabajando en el diseño de pantallas, la estructura de datos y la conexión con la base de datos.
----
+## English
 
-## Licencia
-Este proyecto es de uso educativo y sin fines de lucro. Libre para ser adaptado a otros clubes o instituciones comunitarias.
+### Description
+ClubGest+ is a mobile application designed for neighborhood clubs that allows registering, updating, and managing members' information in a simple and organized way. Its purpose is to improve internal club administration and digitize processes that are usually done manually.
 
-## Integrantes del equipo
+### General Objective
+Develop a mobile application that allows tracking the members of a neighborhood club, digitizing personal information, and improving communication with members.
 
+### Specific Objectives
+- Register new members with their personal data.
+- Classify members by category (youth, adult, veteran, etc.).
+- Attach a photo and a scanned copy of the ID.
+- View, edit, or delete records efficiently.
+- Use a cloud database to store information.
+
+### Main Features
+- Member registration (name, ID, age, address, contact information).
+- Classification by category.
+- Upload member photo and ID scan.
+- Search and consult members by name or ID.
+- Edit and delete records.
+- Secure cloud storage.
+
+### Project Status
+In development. Currently working on:
+- Screen design.
+- Data structure and database connection.
+- Implementation of basic CRUD functionalities and login/registration.
+
+### Documentation
+- [Project Wiki](enlace-a-wiki)  
+  Includes: Mockups, DER, test cases, and technical documentation.  
+- [Test Cases](enlace-a-planilla)  
+  Table with at least 5 test cases validating forms and functionalities.
+
+### License
+This project is for educational purposes and non-profit. It can be freely adapted for other clubs or community institutions.
+
+### Team Members
 - [@juampi.dominguezz_](https://github.com/eljuampoo)
 - [@moreeeledemaaaa_](https://github.com/MorenaaaLedesma)
